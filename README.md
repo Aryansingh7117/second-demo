@@ -1,4 +1,4 @@
 # second-demo
 second file
 <br>
-author - aryan singh
+author - aryan sukhbir singh
